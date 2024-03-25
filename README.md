@@ -1837,4 +1837,4 @@ support for C.
 [623]: https://github.com/ashvardanian/StringZilla
 [700]: https://viewsourcecode.org/snaptoken/kilo/
 [701]: https://wiki.gnome.org/Projects/GLib
-[702]: https://github.com/duckdb/duckdb
+[702]: https://duckdb.org/
